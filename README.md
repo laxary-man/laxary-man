@@ -1,16 +1,16 @@
-<!--
+
 ### Hi there 👋
 
 ```
-I always, Enjoy.
-I usually, Create.
-I often, Do quirky things.
-I sometimes, Make mistakes.
-I rarely, Stop talking.
-I never, Quit.
+🤣 I always,     Enjoy.
+🛠️ I usually,    Create.
+🤓 I often,      Do quirky things.
+🤕 I sometimes,  Make mistakes.
+🙊 I rarely,     Stop talking.
+🌞 I never,      Quit.
 ```
 
-
+<!--
 **laxary-man/laxary-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
