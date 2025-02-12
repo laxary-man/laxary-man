@@ -2,5 +2,5 @@
 ### Hi there 👋
 
 ```
-🤓 Ecletic Learner
+🤓 Eclectic Learner
 ```
